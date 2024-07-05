@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnsT+Xu0TvM5wzYEo5425gY0zcyIVynu1oO3mndW40e+BSuQDgjLUPO0fivX4G6hsLVZHysjsp/omH368rQPfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\OganiWebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

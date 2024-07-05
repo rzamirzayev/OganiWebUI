@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_777620_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777620_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_777777_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777777_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_cc0000_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cc0000_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\images\\ui-icons_ffffff_256x240.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_ffffff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\css\\style.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\ElegantIconsd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ElegantIconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\language.png",
+      "PackagePath": "staticwebassets\\assets\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\OganiWebUI\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OganiWebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OganiWebUI.props",
+      "PackagePath": "build\\OganiWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OganiWebUI.props",
+      "PackagePath": "buildMultiTargeting\\OganiWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OganiWebUI.props",
+      "PackagePath": "buildTransitive\\OganiWebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

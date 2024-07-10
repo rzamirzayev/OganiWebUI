@@ -7,6 +7,7 @@ namespace OganiWebUI.Models.Contexts
     {
         public DataContext(DbContextOptions options) : base(options) { }
         public DbSet<ContactPost> ContactPosts { get; set; }
+        public DbSet<Subscribe> Subscribers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

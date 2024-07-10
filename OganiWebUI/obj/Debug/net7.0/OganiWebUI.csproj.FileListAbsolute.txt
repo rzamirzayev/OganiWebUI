@@ -249,3 +249,4 @@ C:\Users\Lenovo\Desktop\OganiWebUI\OganiWebUI\bin\Debug\net7.0\Microsoft.EntityF
 C:\Users\Lenovo\Desktop\OganiWebUI\OganiWebUI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Lenovo\Desktop\OganiWebUI\OganiWebUI\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Lenovo\Desktop\OganiWebUI\OganiWebUI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Lenovo\Desktop\OganiWebUI\OganiWebUI\bin\Debug\net7.0\libman.json

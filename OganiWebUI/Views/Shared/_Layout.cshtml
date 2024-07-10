@@ -1,4 +1,6 @@
-﻿
+﻿@{
+    string message = TempData["Message"] as string;
+}
 <!DOCTYPE html>
 <html lang="en">
 
@@ -150,7 +152,12 @@
         </div>
     </header>
 
-
+    @if (!string.IsNullOrWhiteSpace(message))
+    {
+        <div class="alert alert-info">
+            @message
+        </div>
+    }
 @RenderBody()
 
 

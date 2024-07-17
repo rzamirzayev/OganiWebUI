@@ -1,6 +1,6 @@
 ﻿namespace Domain.Entities
 {
-    public class Subscribe
+    public class Subscribe:ICreateEntity
     {
         public string Email { get; set; }
 

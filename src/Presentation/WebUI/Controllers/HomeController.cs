@@ -11,17 +11,11 @@ namespace WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly DataContext db;
-        private readonly IEmailService emailService;
-        private readonly ICryptoService cryptoService;
         private readonly IContactPostService contactPostService;
         private readonly ISubscribeService subscribeService;
 
-        public HomeController(DataContext db, IEmailService emailService, ICryptoService cryptoService,IContactPostService contactPostService,ISubscribeService subscribeService)
+        public HomeController(IContactPostService contactPostService,ISubscribeService subscribeService)
         {
-            this.db = db;
-            this.emailService = emailService;
-            this.cryptoService = cryptoService;
             this.contactPostService = contactPostService;
             this.subscribeService = subscribeService;
         }
@@ -32,7 +26,7 @@ namespace WebUI.Controllers
         public IActionResult Contact()
         {
             return View();
-        }
+        }    
         [HttpPost]
         public IActionResult Contact(string fullName, string email, string message)
         {

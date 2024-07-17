@@ -18,8 +18,6 @@ namespace Services.Implementation.Common
             Port = this.options.Port;
             EnableSsl = this.options.EnableSsl;
             Credentials = new NetworkCredential(this.options.UserName, this.options.Password);
-
-
         }
         public async Task SendEmail(string to, string subject, string body)
         {

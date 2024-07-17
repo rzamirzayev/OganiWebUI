@@ -20,7 +20,7 @@ namespace Services.Implementation
         {
             var post = new ContactPost { FullName = fullName, Email = email, Message = message };
             db.Set<ContactPost>().Add(post);
-            db.SaveChanges();
+            db.SaveChangesAsync().Wait();
 
             return "Muracietiniz qebul edildi";
         }

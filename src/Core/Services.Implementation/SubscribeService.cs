@@ -33,22 +33,17 @@ namespace Services.Implementation
             if (entity?.ApprovedAt is not null)
             {
                 return Tuple.Create(true, "Siz artiq abunesiniz");
-
             }
             else if (entity is not null)
             {
                 return Tuple.Create(true, "Siz abunelik ucun epoct unvaninizi tesdiq etmelisiniz!");
-
-
             }
-
-            entity = new Subscribe { Email = email, CreatedAt = DateTime.Now };
+            entity = new Subscribe { Email = email };
             await db.Set<Subscribe>().AddAsync(entity);
             await db.SaveChangesAsync();
             string token = $"id={entity.Email}|expire={DateTime.Now.AddHours(1):yyyy.MM.dd HH:mm:ss}";
             token = cryptoService.Encrypt(token, true);
             string redirectUrl = $"{ctx.HttpContext.Request.Scheme}://{ctx.HttpContext.Request.Host}/subscribe-approve?token={token}";
-
             string msg = $"Salam <b>Rza</b>,<a href=\"{redirectUrl}\">Link</a> Abuneliyinizi tamamlayin";
 
             await emailService.SendEmail(entity.Email, "Ogani Subcripton", msg);
@@ -63,7 +58,6 @@ namespace Services.Implementation
             var match = Regex.Match(token, patterns);
             if (!match.Success)
                 goto l1;
-
             var email = match.Groups["email"].Value;
             var date = match.Groups["date"].Value;
             if (string.IsNullOrWhiteSpace(email))

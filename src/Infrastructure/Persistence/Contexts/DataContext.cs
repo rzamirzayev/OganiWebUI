@@ -1,14 +1,19 @@
 ﻿using Domain;
 using Domain.Entities;
+using Domain.Entities.Membership;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Contexts
 {
-    public class DataContext : DbContext
+    class DataContext : IdentityDbContext<OganiUser, OganiRole, int, OganiUserClaim, OganiUserRole, OganiUserLogin, OganiRoleClaim, OganiUserToken>
     {
-        public DataContext(DbContextOptions options) : base(options) { }
-        public DbSet<ContactPost> ContactPosts { get; set; }
-        public DbSet<Subscribe> Subscribers { get; set; }
+        public DataContext(DbContextOptions options)
+            : base(options)
+        {
+
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -17,19 +22,19 @@ namespace Persistence.Contexts
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
-            foreach(var entry in this.ChangeTracker.Entries<ICreateEntity>())
+            foreach (var entry in this.ChangeTracker.Entries<ICreateEntity>())
             {
-                if(entry.State==EntityState.Added)
+                if (entry.State == EntityState.Added)
                 {
                     entry.Entity.CreatedAt = DateTime.Now;
                 }
                 else
                 {
-                    entry.Property(m=>m.CreatedAt).IsModified= false;
+                    entry.Property(m => m.CreatedAt).IsModified = false;
                 }
             }
+
             return base.SaveChangesAsync(cancellationToken);
         }
-
     }
 }

@@ -5033,6 +5033,14 @@
       "PackagePath": "staticwebassets\\admin\\pages\\widget\\amchart\\gauge.js"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\admin\\pages\\widget\\amchart\\images\\dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets\\admin\\pages\\widget\\amchart\\images\\dragIconRoundBig.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\admin\\pages\\widget\\amchart\\images\\lens.svg",
+      "PackagePath": "staticwebassets\\admin\\pages\\widget\\amchart\\images\\lens.svg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\admin\\pages\\widget\\amchart\\light.js",
       "PackagePath": "staticwebassets\\admin\\pages\\widget\\amchart\\light.js"
     },
@@ -5485,6 +5493,106 @@
       "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error-pages\\403.html",
+      "PackagePath": "staticwebassets\\error-pages\\403.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error-pages\\404.html",
+      "PackagePath": "staticwebassets\\error-pages\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error-pages\\500.html",
+      "PackagePath": "staticwebassets\\error-pages\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\css\\overlays\\02.png",
+      "PackagePath": "staticwebassets\\error\\css\\overlays\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\css\\style.css",
+      "PackagePath": "staticwebassets\\error\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\css\\vegas.min.css",
+      "PackagePath": "staticwebassets\\error\\css\\vegas.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.eot",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.svg",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.ttf",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.woff",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfont5b62.woff2",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfont5b62.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\error\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\img\\background-bubble.jpg",
+      "PackagePath": "staticwebassets\\error\\img\\background-bubble.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\error\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\img\\image.jpg",
+      "PackagePath": "staticwebassets\\error\\img\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\img\\logo.png",
+      "PackagePath": "staticwebassets\\error\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\error\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\bubble.js",
+      "PackagePath": "staticwebassets\\error\\js\\bubble.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\error\\js\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\error\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\mozaic.js",
+      "PackagePath": "staticwebassets\\error\\js\\mozaic.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\particles.js",
+      "PackagePath": "staticwebassets\\error\\js\\particles.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\error\\js\\vegas-youtube.js",
+      "PackagePath": "staticwebassets\\error\\js\\vegas-youtube.js"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
@@ -5495,6 +5603,518 @@
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\chart.js\\dist\\Chart.js",
       "PackagePath": "staticwebassets\\lib\\chart.js\\dist\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\ckeditor.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\ckeditor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\bs.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\bs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\da.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\de-ch.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\de-ch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\de.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\el.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\en-au.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\en-au.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\en-gb.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\en-gb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\eo.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\eo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\es-co.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\es-co.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\es.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\et.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\gu.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\gu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\he.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hy.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\hy.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\hy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\id.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\it.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\jv.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\jv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\km.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\km.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\kn.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\kn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ku.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ku.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ms.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\nb.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\nb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ne.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ne.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\no.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\oc.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\oc.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pt-br.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pt-br.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\si.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sq.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sq.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sr-latn.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sr-latn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\th.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tk.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\tt.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\tt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ug.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ug.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\uz.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\uz.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\zh-cn.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\zh-cn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\ckeditor5\\translations\\zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5\\translations\\zh.min.js"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\jquery-slimscroll\\jquery.slimscroll.js",
@@ -5521,6 +6141,14 @@
       "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.min.js"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\single-chooser\\single-chooser.css",
+      "PackagePath": "staticwebassets\\lib\\single-chooser\\single-chooser.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\single-chooser\\single-chooser.js",
+      "PackagePath": "staticwebassets\\lib\\single-chooser\\single-chooser.js"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\toastr.js\\toastr.css",
       "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.css"
     },
@@ -5535,6 +6163,26 @@
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\lib\\toastr.js\\toastr.min.js",
       "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\uploads\\24f4044d-d75d-48d4-9e82-84f2507ee279.jpg",
+      "PackagePath": "staticwebassets\\uploads\\24f4044d-d75d-48d4-9e82-84f2507ee279.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\uploads\\552b5896-b28d-4f97-8751-047e661c82d0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\552b5896-b28d-4f97-8751-047e661c82d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\uploads\\809ad0cf-9ce5-47fb-9e7b-d4e9a5dbb272.jpg",
+      "PackagePath": "staticwebassets\\uploads\\809ad0cf-9ce5-47fb-9e7b-d4e9a5dbb272.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\uploads\\eea2e48f-4806-472b-a63f-f023af309489.jpg",
+      "PackagePath": "staticwebassets\\uploads\\eea2e48f-4806-472b-a63f-f023af309489.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\wwwroot\\uploads\\f6859f8e-f54b-4b2d-abd0-d13febc5ccf3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f6859f8e-f54b-4b2d-abd0-d13febc5ccf3.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -7,6 +7,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="Autofac" Version="8.1.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.20" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.20" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.20" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.20">
@@ -16,6 +19,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\..\..\Repositories\Repositories.csproj" />
 		<ProjectReference Include="..\..\Core\Domain\Domain.csproj" />
 	</ItemGroup>
 

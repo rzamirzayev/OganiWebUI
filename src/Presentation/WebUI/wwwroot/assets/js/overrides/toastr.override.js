@@ -1,10 +1,8 @@
-﻿/*Command: toastr["success"]("Size geri donus edecik.", "Success")*/
-
-toastr.options = {
-    "closeButton": false,
+﻿toastr.options = {
+    "closeButton": true,
     "debug": false,
     "newestOnTop": false,
-    "progressBar": false,
+    "progressBar": true,
     "positionClass": "toast-bottom-right",
     "preventDuplicates": true,
     "onclick": null,
@@ -17,3 +15,6 @@ toastr.options = {
     "showMethod": "fadeIn",
     "hideMethod": "fadeOut"
 }
+
+//toastr["success"]("Size geri doneceyik", "Success")
+//toastr.success("Size geri doneceyik", "Success")

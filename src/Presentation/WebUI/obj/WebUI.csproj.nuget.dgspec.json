@@ -4,6 +4,65 @@
     "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Presentation\\WebUI\\WebUI.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -39,6 +98,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -83,6 +148,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj"
+              },
               "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj"
               },
@@ -102,13 +170,29 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.20, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
@@ -158,7 +242,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -170,6 +258,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -214,6 +312,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\Repositories\\Repositories.csproj"
+              },
               "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\Lenovo\\Desktop\\OganiWebUI\\src\\Core\\Domain\\Domain.csproj"
               }
@@ -230,6 +331,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.20, )"
@@ -311,6 +424,22 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -318,6 +447,10 @@
               "version": "[7.0.20, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[7.0.20, )"
             },
